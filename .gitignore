@@ -2,7 +2,7 @@
 
 # styling
 .eslintignore
-.prettierrcignore
+.prettierignore
 .prettierrc.js
 .eslintrc.js
 
